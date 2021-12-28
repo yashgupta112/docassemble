@@ -33,3 +33,5 @@ exclude:
   - .git
   - subdocs
   - CHANGELOG.yml
+
+theme: jekyll-theme-slate
